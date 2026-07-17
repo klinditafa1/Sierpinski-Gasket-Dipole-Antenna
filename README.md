@@ -44,17 +44,6 @@ constraints where traditional mechanically-steered dish antennas fall short.
 | Electromagnetic simulation  | Tidy3D (FDTD) |
 | Geometry export              | STEP / STL |
 
-## Project structure
-
-```
-.
-├── fractal_antenna.py     # Recursive Python script generating the Sierpinski
-│                            Gasket Dipole geometry in FreeCAD
-├── simulation/              # Tidy3D simulation setup and result-analysis scripts
-├── exports/                 # Generated .STEP / .STL geometry files
-└── README.md
-```
-*(Adjust this section to match your actual file names/folders.)*
 
 ## How the geometry is generated
 
